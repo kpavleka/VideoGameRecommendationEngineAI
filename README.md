@@ -40,7 +40,6 @@ U nekim slučajevima, prije pokretanja programa potrebno je maknuti pravo **"Sam
 2) Desni klik miša na folder -> Odabrati **"Svojstva"** ili **Properties (preferences)**
 3) Kod polja *"Atributi"* ili *Attributes* maknuti oznaku **"Samo čitanje" (Read-only)**
 4) Odabrati **"U redu"**
-5) Odabrati **"U redu"**
 
 To je to, sad bi trebala raditi i predikcija putem ML modela.
 
